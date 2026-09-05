@@ -80,9 +80,10 @@ I'm a second-year B.Tech Computer Science student focused on artificial intellig
 
 ## GitHub Overview
 
+## GitHub Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksoni5157&show_icons=true&theme=default&hide_border=true&title_color=1B2735&icon_color=4A5568&text_color=4A5568" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksoni5157&layout=compact&theme=default&hide_border=true&title_color=1B2735&text_color=4A5568" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=aksoni5157&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 </p>
 
 <br>
