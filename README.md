@@ -18,7 +18,7 @@
 </div>
 </p>
 <p align="center">
-  <img src="ak.soni.jpeg" width="200">
+  <img src="ak.jpeg" width="200">
 </p>
 
 <p align="center">
