@@ -151,5 +151,5 @@ I'm a second-year B.Tech Computer Science student focused on artificial intellig
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:A855F7&height=230&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:A855F7&height=200&section=footer" />
 </p>
