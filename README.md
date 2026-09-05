@@ -132,13 +132,24 @@ I'm a second-year B.Tech Computer Science student focused on artificial intellig
 
 <br>
 
-## Connect
+<h2>💛 Let’s Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-soni-a92134397/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1B2735?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://aksoni5157.github.io/portfolio/"><img src="https://img.shields.io/badge/View%20Portfolio-1B2735?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/akash-soni-a92134397">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aksoni5157">
+    <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:1B2735&height=100&section=footer" />
+  <i>"Building AI systems that turn real-world problems into intelligent solutions."</i> 🤖
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:A855F7&height=100&section=footer" />
 </p>
