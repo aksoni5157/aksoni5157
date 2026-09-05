@@ -75,9 +75,6 @@ I'm a second-year B.Tech Computer Science student focused on artificial intellig
 </table>
 
 <br>
-
-## GitHub Overview
-
 ## GitHub Overview
 
 <p align="center">
