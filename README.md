@@ -126,7 +126,7 @@ I'm a second-year B.Tech Computer Science student focused on artificial intellig
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Bus Tracker App](https://aksoni5157.github.io/portfolio/#)** | An Android application that tracks bus locations in real time, helping users check arrival times and plan their commute. | Android, Java/Kotlin, Maps API |
+| **[Bus Tracker App]🚌(https://aksoni5157.github.io/portfolio/#)** | An Android application that tracks bus locations in real time, helping users check arrival times and plan their commute. | Android, Java/Kotlin, Maps API |
 
 *More projects will be added here as they're built.*
 
