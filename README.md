@@ -6,7 +6,7 @@
 <p align="center">
   <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Akash%20Soni&fontSize=45&fontColor=FF4B4B&animation=twinkling&height=100" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Akash%20Soni&fontSize=45&fontColor=FFD700&animation=twinkling&height=100" />
 </p>
 
 <p align="center">
