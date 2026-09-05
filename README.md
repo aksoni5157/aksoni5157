@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=180&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=180&section=header&text=Akash%20Soni&fontSize=50&fontColor=FFFFFF&fontAlignY=55&fontWeight=800&animation=twinkling" />
 </p>
 
 <p align="center">
 <p align="center">
   <div align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Akash%20Soni&fontSize=45&fontColor=FFD700&animation=twinkling&height=100" />
+
 </p>
 
 <p align="center">
