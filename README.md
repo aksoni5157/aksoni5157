@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3000&pause=1000&color=4A5568&center=true&vCenter=true&width=500&lines=Akash+Soni" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=✨+Akash+Soni+✨;💻+B.Tech+2nd+Year+CSE+Student;🤖+AI+%7C+ML+%7C+Data+Science+%7C+Cybersecurity" />
+</p>
 </p>
 <p align="center">
   <img src="ak.soni.jpeg" width="200">
