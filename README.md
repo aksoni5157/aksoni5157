@@ -4,7 +4,7 @@
 
 <h1 align="center">Akash Soni</h1>
 <p align="center">
-  <img src="ak.soni.jpeg" width="200">font=Inter&weight=500&size=18&duration=3000&pause=1000&color=4A5568&center=true&vCenter=true&width=560&lines=B.Tech+Student+%E2%80%94+Computer+Science;Artificial+Intelligence+%26+Machine+Learning;Cybersecurity+%26+Data+Science" alt="tagline" />
+  <img src="ak.soni.jpeg" width="200">
 </p>
 
 <p align="center">
