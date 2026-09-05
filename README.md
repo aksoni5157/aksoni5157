@@ -75,7 +75,7 @@ I'm a second-year B.Tech Computer Science student focused on artificial intellig
 </table>
 
 <br>
-## **GitHub Overview**
+<h2 align="center"><b>GitHub Overview</b></h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aksoni5157&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
