@@ -6,9 +6,13 @@
 <p align="center">
   <div align="center">
 
-<h1>✨ Akash Soni ✨</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Akash%20Soni&fontSize=45&fontColor=FFFFFF&animation=twinkling&height=100" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+2nd+Year+CSE+Student;AI+%7C+ML+%7C+Data+Science+%7C+Cybersecurity" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+2nd+Year+CSE+Student;AI+%7C+ML+%7C+Data+Science+%7C+Cybersecurity" />
+</p>
 
 </div>
 </p>
