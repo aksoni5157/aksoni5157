@@ -11,6 +11,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+B.Tech+2nd+Year+CSE+Student;%F0%9F%A4%96+AI+%7C+ML+%7C+Data+Science+%7C+Cybersecurity" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aksoni5157&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+</p>
 </p>
 
 </p>
