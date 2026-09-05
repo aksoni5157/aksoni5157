@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=230&section=header&text=Akash%20Soni&fontSize=55&fontColor=FFFFFF&fontAlignY=55&fontWeight=800&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=230&section=header&text=Akash%20Soni&fontSize=60&fontColor=FFD700&fontAlignY=55&fontWeight=800&animation=twinkling" />
 </p>
 
 <p align="center">
