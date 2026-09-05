@@ -22,9 +22,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-soni-a92134397/"><img src="https://img.shields.io/badge/LinkedIn-4A5568?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/aksoni5157"><img src="https://img.shields.io/badge/GitHub-4A5568?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://aksoni5157.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4A5568?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+
+<a href="www.linkedin.com/in/akash-soni-a92134397">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/aksoni5157">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://aksoni5157.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 </p>
 
 <br>
