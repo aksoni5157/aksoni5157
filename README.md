@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,100:283E51&height=180&section=header" />
 </p>
 
-<h1 align="center">Akash Soni</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3000&pause=1000&color=4A5568&center=true&vCenter=true&width=500&lines=Akash+Soni" />
+</p>
 <p align="center">
   <img src="ak.soni.jpeg" width="200">
 </p>
